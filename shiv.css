@@ -1,0 +1,73 @@
+.crop-img{
+  height:660px;
+}
+.card-body{
+  background-color:#82CD47;
+}
+
+
+ h1{
+   margin:5px 0px 30px 10px;
+   text-align: center;
+   font-family: Merriweather;
+ }
+ h5{
+    text-align: center;
+    padding: 0px 0px 20px 0px;
+
+ }
+
+h3{
+     font-family: Merriweather;
+}
+ .title{
+   background-color: #82CD47;
+   margin:0px 50px 50px 0px;
+ }
+
+ .col-lg-3 {
+   margin-left: 100px;
+ }
+
+#Dealership{
+  position:relative;
+
+}
+.text{
+  line-height: 2;
+  font-size: 1.5em;
+  padding: 10px 300px 10px 50px;
+
+}
+
+.iffco-img{
+  width: 600px;
+  margin-top:60px;
+  margin-left:40px
+}
+
+.Indorama-img{
+  width: 900px;
+  margin-top:60px;
+  margin-left:40px
+}
+
+@media(max-width:1028) {
+  .text{
+    padding: 0px;
+  }
+
+}
+#Contect{
+  text-align: center;
+  margin-top: 250px;
+  background-color: #82CD47;
+}
+.user-profile{
+  padding-bottom: 50px;
+}
+
+}
+.instagram{
+  margin: 0px 40px;
+}
